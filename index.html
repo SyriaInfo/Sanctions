@@ -3,7 +3,9 @@
 <head>
   <meta charset="utf-8">
   <title>GraphML Viewer</title>
-  <script src="https://unpkg.com/cytoscape/dist/cytoscape.min.js"></script>
+  <!-- Cytoscape core -->
+  <script src="https://unpkg.com/cytoscape@3.28.1/dist/cytoscape.min.js"></script>
+  <!-- GraphML plugin -->
   <script src="https://unpkg.com/cytoscape-graphml/cytoscape-graphml.js"></script>
   <style>
     html, body { margin: 0; padding: 0; height: 100%; }
@@ -13,7 +15,11 @@
 <body>
   <div id="cy"></div>
   <script>
-    fetch('eu_us_network.graphml')  
+    // Register the extension
+    cytoscape.use(cytoscapeGraphml);
+
+    // Load the GraphML file
+    fetch('eu_us_network.graphml')
       .then(res => res.text())
       .then(data => {
         let cy = cytoscape({
@@ -24,6 +30,7 @@
           ]
         });
 
+        // Parse GraphML
         cy.graphml({ data });
         cy.layout({ name: 'cose' }).run();
       });
