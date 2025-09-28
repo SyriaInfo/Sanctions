@@ -1,0 +1,1290 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="EU"/>
+<node id="US"/>
+<node id="Fahid Jasim AL-FURAYJ"/>
+<node id="Ali Abdallah AYYUB"/>
+<node id="Adnan Hassan MAHMOUD"/>
+<node id="Tayseer Qala AWWAD"/>
+<node id="Issam ANBOUBA"/>
+<node id="Tarif AL AKHRAS"/>
+<node id="Fares Chihabi"/>
+<node id="Ghassan Khaleel"/>
+<node id="Adnuf"/>
+<node id="Muhammed ZAMRENI"/>
+<node id="Nawfal AL-HUSSAIN"/>
+<node id="Hayel AL-ASSAD"/>
+<node id="Tawfiq Yunes"/>
+<node id="Mohammad al-MUFLIH"/>
+<node id="Raeef al-Kouatly"/>
+<node id="Hojjatoleslam Hossein Ta'eb"/>
+<node id="Iehab MAKHLOUF"/>
+<node id="Bassam Al Hasan"/>
+<node id="Faruq Al Shara"/>
+<node id="Munzir Jamil AL-ASSAD"/>
+<node id="Jamil AL-HASSAN"/>
+<node id="Abd al-Fatah QUDSIYAH"/>
+<node id="Rami MAKHLOUF"/>
+<node id="Hafiz MAKHLOUF"/>
+<node id="Abu Ayham"/>
+<node id="Ibrahim MA'LA"/>
+<node id="Khudr KHUDR"/>
+<node id="Qusay Ibrahim MIHOUB"/>
+<node id="Jawdat al-Ahmad"/>
+<node id="Abdul-Salam Fajr MAHMOUD"/>
+<node id="Mohammed KHALLOUF"/>
+<node id="Salah HAMAD"/>
+<node id="Shafik MASA"/>
+<node id="Syrian National Security Bureau"/>
+<node id="Ministry of Interior [Syria]"/>
+<node id="Ministry of Defence [Syria]"/>
+<node id="André Mayard"/>
+<node id="Hussain Mahmoud FARZAT"/>
+<node id="Omar Ibrahim GHALAWANJI"/>
+<node id="Bushra Shawkat"/>
+<node id="Imad Mohammed Deeb KHAMIS"/>
+<node id="Saleh AL-RASHED"/>
+<node id="Adnan SLAKHO"/>
+<node id="Sufian ALLAW"/>
+<node id="Imad Abdul Ghani Al Sabuni"/>
+<node id="Mansur Fadl Allah Azzam"/>
+<node id="Wael Nader AL-HALKI"/>
+<node id="Makhmoud AL-KHATTIB"/>
+<node id="Mohamed Khudour"/>
+<node id="Ali DAWWA"/>
+<node id="Jamal YOUNES"/>
+<node id="Ghassan Afeef"/>
+<node id="Bader AQEL"/>
+<node id="Fo’ad Hammoudah"/>
+<node id="Ramadan Mahmoud RAMADAN"/>
+<node id="Jawdat Ibrahim SAFI"/>
+<node id="Mohamed Ibrahim Al-Sha'ar"/>
+<node id="Nazeeh HASSOUN"/>
+<node id="Ali BARAKAT"/>
+<node id="Khalil Zighraybah"/>
+<node id="Mohammed AL-JLEILATI"/>
+<node id="Mujahed ISMAEL"/>
+<node id="Zouhair HAMAD"/>
+<node id="George CHAOUI"/>
+<node id="Nizar Wehbe Yazigi"/>
+<node id="Khalaf Sleiman al-Abdullah"/>
+<node id="Mohammad Walid GHAZAL"/>
+<node id="Kamal al-Sheikha"/>
+<node id="Hassan al-Nouri"/>
+<node id="Mohammad Ghazi al-Jalali"/>
+<node id="Mohammad Amer Mardini"/>
+<node id="Hammam al-Jazairi"/>
+<node id="Samir HASSAN"/>
+<node id="Coefficient Defense Foundation"/>
+<node id="Amrou Al-Armanazy"/>
+<node id="Hashim Akkad"/>
+<node id="Hasib"/>
+<node id="Hussein Arnus"/>
+<node id="Bishr Riyad YAZIGI"/>
+<node id="Khudr Orphaly"/>
+<node id="Shmat"/>
+<node id="Kamal Eddin TU'MA"/>
+<node id="Suleiman AL ABBAS"/>
+<node id="Abdullah Khaleel HUSSAIN"/>
+<node id="Najm-addin KHREIT"/>
+<node id="Ali HAIDAR"/>
+<node id="Abdul-Salam AL NAYEF"/>
+<node id="Jassem Mohammed ZAKARIA"/>
+<node id="Sa’iid Maazi Hneidi"/>
+<node id="Yasser al Sibaei"/>
+<node id="Safwan AL ASSAF"/>
+<node id="Mahmoud Ibraheem Sa'eed"/>
+<node id="Hazwan Al Wazz"/>
+<node id="Subhi Ahmad al-Abdullah"/>
+<node id="Bassam HANNA"/>
+<node id="Hala Mohammed AL NASSER"/>
+<node id="Mohammad Abdul-Sattar Al Sayyed"/>
+<node id="Drex Technologies S.A."/>
+<node id="Samir Joum’a"/>
+<node id="Issam HALLAQ"/>
+<node id="Mohammad Ali NASR"/>
+<node id="Amer Ashi"/>
+<node id="Ahmed AL-JAROUCHEH"/>
+<node id="Bassam AL-MISRI"/>
+<node id="Taha TAHA"/>
+<node id="Ali Wannous"/>
+<node id="Samir Daaboul"/>
+<node id="Salam Mohammad AL-SAFFAF"/>
+<node id="Mohammad Samer Abdelrahman AL-KHALIL"/>
+<node id="Hisham Mohammad Mamdouh AL‐SHA'AR"/>
+<node id="Muhammed IBRAHIM"/>
+<node id="Ali GHANEM"/>
+<node id="Mohammed AL-AHMED"/>
+<node id="Duraid DURGHAM"/>
+<node id="Rafe'a Abu SA'AD"/>
+<node id="Salwa ABDULLAH"/>
+<node id="Abdullah ABDULLAH"/>
+<node id="Ma’moun HAMDAN"/>
+<node id="Mohammed Zahir KHARBOUTLI"/>
+<node id="Ali Hammoud"/>
+<node id="Mohammed Ramez TOURJMAN"/>
+<node id="Ali AL-ZAFIR"/>
+<node id="Hussein MAKHLOUF"/>
+<node id="Atef NADDAF"/>
+<node id="Hilal HILAL"/>
+<node id="Bishr AL-SABBAN"/>
+<node id="Ammar AL-SHARIF"/>
+<node id="Tahir Hamid KHALIL"/>
+<node id="Jawdat Salbi MAWAS"/>
+<node id="Adnan Aboud HILWEH"/>
+<node id="Technical Industries Corporation (TIC)"/>
+<node id="Imad Hmisho"/>
+<node id="Ghassan ABBAS"/>
+<node id="Aiman JABER"/>
+<node id="Abdelhamid Khamis Ahmad Adballa"/>
+<node id="Ghassan Ahmed GHANNAM"/>
+<node id="Ghazqan Kheir Bek"/>
+<node id="Mohammad Muti'a Moayyad"/>
+<node id="Issam KHALIL"/>
+<node id="Hassan Safiye"/>
+<node id="Air Force Intelligence Agency [Syria]"/>
+<node id="Military Intelligence Directorate [Syria]"/>
+<node id="General Intelligence Directorate [Syria]"/>
+<node id="Political Security Directorate [Syria]"/>
+<node id="Mohammed JABER"/>
+<node id="Husam SUKKAR"/>
+<node id="Ali AL-SALEEM"/>
+<node id="Mohammad Ali JAAFARI"/>
+<node id="Riyad SHALEESH"/>
+<node id="MILIHOUSE"/>
+<node id="Amjad AL-ABBAS"/>
+<node id="Mohamed Dib Zeitun"/>
+<node id="Amer Zuhair Fawz"/>
+<node id="Waseem AL-KATTAN"/>
+<node id="Adel Anwar AL-OLABI"/>
+<node id="Yasser Aziz ABBAS"/>
+<node id="Iyad Mohammad AL-KHATIB"/>
+<node id="Suhail Mohammad ABDULLATIF"/>
+<node id="Bassam Bashir IBRAHIM"/>
+<node id="Imad Muwaffaq AL-AZAB"/>
+<node id="Mohammad Rami Radwan MARTINI"/>
+<node id="Khaled Bassam al-Zubaidi"/>
+<node id="Mazin AL-TARAZI"/>
+<node id="Samer Foz bin Zuhair"/>
+<node id="Anas TALAS"/>
+<node id="Zuhair FADHLUN"/>
+<node id="Maher Suleiman"/>
+<node id="Yusuf Ajib"/>
+<node id="Imad Abdullah SARA"/>
+<node id="Hala SIRHAN"/>
+<node id="Fayez ASI"/>
+<node id="Fawwaz EL-ATOU"/>
+<node id="Raymond RIZQ"/>
+<node id="Khaled SAWAN"/>
+<node id="Mohammad Darar KHALUDI"/>
+<node id="Mohammad Ziad GHRIWATI"/>
+<node id="Mohammad Safwan Qattan"/>
+<node id="Mayzar 'Abdu SAWAN"/>
+<node id="Jayyiz Rayyan AL-MUSA"/>
+<node id="Malik HASAN"/>
+<node id="Razan OTHMAN"/>
+<node id="Jamal Shaaban SHAHEEN"/>
+<node id="Nazeera Farah SARKIS"/>
+<node id="Najm Hamad AL-AHMED"/>
+<node id="Adnan Abdo AL-SEKHNI"/>
+<node id="Mohammad Yahiya MALA"/>
+<node id="Kadri JAMEEL"/>
+<node id="Ezzedine ISMAIL"/>
+<node id="Ahmed KAFAN"/>
+<node id="Basel BILAL"/>
+<node id="Firas AL-HAMID"/>
+<node id="Suhail AL-Abdallah"/>
+<node id="Riad AL-AHMAD"/>
+<node id="Burhan QADDUR"/>
+<node id="Hassan AL-SARI"/>
+<node id="Yousef Suleiman AL-AHMED"/>
+<node id="Ghiath JIRAATLI"/>
+<node id="Mohamed Hekmat IBRAHIM"/>
+<node id="Yousef ISMAEL"/>
+<node id="Jihad Mohammed SULTAN"/>
+<node id="Mohammed Ali DURGHAM"/>
+<node id="Ghiath FAYYAD"/>
+<node id="Khald AL-TAWIL"/>
+<node id="Maan JDEED"/>
+<node id="Ibrahim AL-HASAN"/>
+<node id="Fu’ad TAWIL"/>
+<node id="Talal Mustafa TLASS"/>
+<node id="Wajeeh MAHMUD"/>
+<node id="Nazih"/>
+<node id="Amar ISMAIL"/>
+<node id="Abdallah BERRI"/>
+<node id="Louay AL-ALI"/>
+<node id="Jumah AL-AHMED"/>
+<node id="SOROH Al Cham Company"/>
+<node id="El-Tel. Middle East Company"/>
+<node id="Dounia TV"/>
+<node id="Mada Transport"/>
+<node id="Ahmad Khalil Khalil"/>
+<node id="Saleh AL-ABDULLAH"/>
+<node id="Sara Mohammed MAKHLOUF"/>
+<node id="Kinda Mohammed MAKHLOUF"/>
+<node id="Ghada Adib MHANNA"/>
+<node id="Hala Tarif ALMAGHOUT"/>
+<node id="ООО Евро Полис"/>
+<node id="OOO Меркурий"/>
+<node id="ООО Велада"/>
+<node id="Andrey Mikhailovich BOGATOV"/>
+<node id="Andrey Nikolaevich TROSHEV"/>
+<node id="Diala BARAKAT"/>
+<node id="Boutros AL-HALLAQ"/>
+<node id="Amr SALEM"/>
+<node id="Faisal MEKDAD"/>
+<node id="Mohammad Samir HADDAD"/>
+<node id="Malloul HUSSEIN"/>
+<node id="Mohamad Fayez BARCHA"/>
+<node id="Ghassan ZAMEL"/>
+<node id="Mohammad Hassan QATANA"/>
+<node id="Ziyad SABBAGH"/>
+<node id="Hassan GHABACHE"/>
+<node id="Bassam TOU’MA"/>
+<node id="Zuhair KHAZIM"/>
+<node id="Kinan YAGHI"/>
+<node id="Tammam RA’AD"/>
+<node id="Ahmad SAYYED"/>
+<node id="Darem TABA’A"/>
+<node id="Loubana MOUCHAWEH"/>
+<node id="Talal AL-BARAZI"/>
+<node id="Al Jazerra"/>
+<node id="Rawafed Damascus Private Joint Stock Company"/>
+<node id="Mirza"/>
+<node id="Bunyan Damascus Private Joint Stock Company"/>
+<node id="Mohamed Mazen Ali YOUSEF"/>
+<node id="Rima AL-KADIRI"/>
+<node id="Wafiqa HOSNI"/>
+<node id="Abdullah AL-QIRBI"/>
+<node id="Nabil AL-HASSAN"/>
+<node id="Khayr al-Din AL-SAYYED"/>
+<node id="Ghassan Omar KHALAF"/>
+<node id="Ahmad Sheik ABDUL-QADER"/>
+<node id="Samir Izzat Qadi AMIN"/>
+<node id="Isma'Il Isma'il"/>
+<node id="Hassan HIJAZI"/>
+<node id="Ahmed Mohammad BUSTAJI"/>
+<node id="Firas Hassan QADDOUR"/>
+<node id="Louai Emad El-Din al-MUNAJJID"/>
+<node id="Na’im Jasem SULEIMAN"/>
+<node id="Iloma Investment Private JSC"/>
+<node id="Al-Dj Group"/>
+<node id="Firas al-Akhras"/>
+<node id="Mohannad al-Dabbagh"/>
+<node id="Fahad Darwish"/>
+<node id="Bilal al-Naal"/>
+<node id="Fereydoun Mohammadi SAGHAEI"/>
+<node id="Aman for Protection and Security LLC"/>
+<node id="Al-Jabal Security and Protection LLC"/>
+<node id="Gecopham, the General Company for Phosphate and Mines"/>
+<node id="Fourth Armoured Division of the Syrian Army"/>
+<node id="Ali Mhanna SULEIMAN"/>
+<node id="Osama RAMADAN"/>
+<node id="Amjad YOUSSEF"/>
+<node id="Ahmad Ali TAHER"/>
+<node id="Osama AL-MALIKI"/>
+<node id="Jamal AL-KHATIB"/>
+<node id="Jamal al-Ismail"/>
+<node id="Ali Najib IBRAHIM"/>
+<node id="Samer AL-DIBIS"/>
+<node id="Muhammad ABDO ASSAAD"/>
+<node id="Jihad BARAKAT"/>
+<node id="Hassan Muhammad DAQQOU"/>
+<node id="Waseem Omar AL-MASALMA"/>
+<node id="Mohammad SHALISH"/>
+<node id="Mudar Rifaat AL-ASSAD"/>
+<node id="Sanad Protection and Security Services"/>
+<node id="Issam SHAMMOUT"/>
+<node id="Nasser Deeb DEEB"/>
+<node id="ABBAS, Muhammad"/>
+<node id="ABD AL-NASIR, Hajji"/>
+<node id="ABD AL-SALAM, Ashraf Muhammad Yusuf 'Uthman"/>
+<node id="ABDALLAH, Ramadan"/>
+<node id="ABDURAKHMANOV, Maghomed Maghomedzakirovich"/>
+<node id="ABU BAKR, Sayf Boulad"/>
+<node id="AHMAD, Ayman"/>
+<node id="AHMAD, Muhammad Ali Sayid"/>
+<node id="AHMAD, Muhammad Yunis"/>
+<node id="AHRAR AL-SHARQIYA"/>
+<node id="AL ALI AND AL HAMZA LLC"/>
+<node id="AL MAZIDIH, Akram Turki Hishan"/>
+<node id="AL MAZIDIH, Badran Turki Hishan"/>
+<node id="AL MAZIDIH, Ghazy Fezza Hishan"/>
+<node id="AL-ADHAM EXCHANGE COMPANY"/>
+<node id="AL-ADNANI, Abu Mohammed"/>
+<node id="AL-AHMAD, Ahmad Muhammad Yunis"/>
+<node id="AL-AHMAD, Sa'ad Muhammad Yunis"/>
+<node id="AL-AJOURI, Akram"/>
+<node id="AL-'ALLAK, Ashraf Ahmad Fari'"/>
+<node id="AL-AMER DEVELOPMENT AND REAL ESTATE INVESTMENT"/>
+<node id="AL-AMER FOR MANUFACTURE OF CONCRETE AND FLAGSTONE"/>
+<node id="AL-AMER FOR MANUFACTURE OF PLASTIC"/>
+<node id="AL-ARD AL-JADIDAH MONEY EXCHANGE COMPANY"/>
+<node id="AL-ASSAD, Hafez"/>
+<node id="AL-ASSAD, Karam"/>
+<node id="AL-ASSAD, Zuhair Tawfik"/>
+<node id="AL-BUSTAN CHARITY"/>
+<node id="ALCHWIKI, Mhd Amer"/>
+<node id="ALDABBAS, Rania"/>
+<node id="AL-DAMMAMI, Hussein Ahmad 'Abdallah Ahmad Hussein"/>
+<node id="AL-DANA, Samer"/>
+<node id="AL-DEKER, Asef"/>
+<node id="AL-DULAYMI, Hasan Hashim Khalaf"/>
+<node id="AL-DURI, Thabet"/>
+<node id="AL-FADEL EXCHANGE AND MONEY TRANSFER COMPANY"/>
+<node id="AL-HASRI, Bassam Ahmad"/>
+<node id="AL-HASSAN, Kamal"/>
+<node id="AL-HATUM, Yusuf"/>
+<node id="AL-HAYES, Ahmad Ihsan Fayyad"/>
+<node id="AL-HAYES, Raed Jassim"/>
+<node id="AL-HEBO JEWELRY COMPANY"/>
+<node id="AL-HEBO, Muhamad Ali"/>
+<node id="AL-HINDI, Muhammad"/>
+<node id="AL-HISN"/>
+<node id="ALI HAKIM, Boubaker Ben Habib Ben"/>
+<node id="ALI, Ahmad"/>
+<node id="ALI, Emraan"/>
+<node id="AL-JABURI, Mish'an Rakin Thamin"/>
+<node id="AL-JASIM, Mohammad Hussein"/>
+<node id="AL-JASIM, Walid Hussein"/>
+<node id="AL-JAWLANI, Abu Muhammad"/>
+<node id="ALKHALD, Ahmad"/>
+<node id="AL-KHALIDI EXCHANGE"/>
+<node id="AL-LAYTH ALZAHABE TRANSPORTATION AND SHIPPING SERVICES"/>
+<node id="AL-MARSUMI, Saddah Jaylut"/>
+<node id="AL-MATUTI, Arkan Ahmad 'Abbas"/>
+<node id="AL-MAWLA, Amir Muhammad Sa'id Abdal-Rahman"/>
+<node id="AL-MESHEDANI, Abdullah Ahmed"/>
+<node id="ALOTAIBI, Mubarak Mohammed A"/>
+<node id="AL-QASIUN"/>
+<node id="AL-QUBAYSI, Munir"/>
+<node id="AL-RASHIDI, Nawaf Ahmad Alwan"/>
+<node id="AL-RAWI, 'Adnan Muhammad Amin"/>
+<node id="AL-RAWI, Fawzi Mutlaq"/>
+<node id="AL-RESAFA REFINERY COMPANY PRIVATE JSC"/>
+<node id="AL-SHABAN, Hasan"/>
+<node id="AL-SHAMMARI, Sa'ad Uwayyid 'Ubayd Mu'jil"/>
+<node id="AL-SURI, Faruq"/>
+<node id="AL-TA'IR COMPANY"/>
+<node id="AL-TIKRITI, Ahmed Watban Ibrahim Hasan"/>
+<node id="AL-TIKRITI, Ayman Sabawi Ibrahim Hasan"/>
+<node id="AL-TIKRITI, Bashar Sabawi Ibrahim Hasan"/>
+<node id="AL-TIKRITI, Ibrahim Sabawi Ibrahim Hasan"/>
+<node id="AL-TIKRITI, Omar Sabawi Ibrahim Hasan"/>
+<node id="AL-TIKRITI, Sa'd Sabawi Ibrahim Hasan"/>
+<node id="AL-TIKRITI, Yasir Sabawi Ibrahim Hasan"/>
+<node id="AL-URAYDI, Sami Mahmud Mohammed"/>
+<node id="AL-ZAWRA TELEVISION STATION"/>
+<node id="AMAN HOLDING COMPANY"/>
+<node id="ANSARI, Mohammad Reza"/>
+<node id="AQIL, Ibrahim"/>
+<node id="ARFADA PETROLEUM PRIVATE JOINT STOCK COMPANY"/>
+<node id="ARIF, Said"/>
+<node id="ARMAR, Mohammad Shafi"/>
+<node id="ASPERMAN, Joe"/>
+<node id="ATAR, Oussama Ahmad"/>
+<node id="BALWI, Fadel Ma'ruf"/>
+<node id="BALWI, Mut'i Ma'ruf"/>
+<node id="BARAKAT TRANSNATIONAL CRIMINAL ORGANIZATION"/>
+<node id="BARAKAT, Nasif"/>
+<node id="BARKHANOEV, Malik Ruslanovish"/>
+<node id="BASIJ RESISTANCE FORCE"/>
+<node id="BENGHALEM, Salim"/>
+<node id="BILAL, Muhammad Nafi"/>
+<node id="COASTAL REFINERY COMPANY PRIVATE JSC"/>
+<node id="CRAWFORD, Shane Dominic"/>
+<node id="CUSPERT, Denis Mamadou"/>
+<node id="DALAH, Ghaith"/>
+<node id="DARWISH, Samir Sakhir"/>
+<node id="DEIRY, Mohamad Majd"/>
+<node id="DHAR, Siddhartha"/>
+<node id="DIABY, Omar"/>
+<node id="EL ABBOUBI, Anas"/>
+<node id="ELECTRONICS INSTITUTE"/>
+<node id="ELECTRONICS KATRANGI TRADING"/>
+<node id="ELLA MEDIA SERVICES LLC"/>
+<node id="ELLA TOURISM COMPANY"/>
+<node id="ELSHEIKH, El Shafee"/>
+<node id="EMMA LLC"/>
+<node id="EMMA TEL LLC"/>
+<node id="EMMA TEL PLUS LLC"/>
+<node id="FATEMIYOUN DIVISION"/>
+<node id="FAYZIMATOV, Farrukh Furkatovitch"/>
+<node id="FOZ FOR TRADING"/>
+<node id="FOZ, Husen"/>
+<node id="GAINI, Abdelatif"/>
+<node id="GHANIM, Ma'n"/>
+<node id="GLOBAL RELIEF FOUNDATION, INC."/>
+<node id="GOLDEN STAR CO"/>
+<node id="GOLDEN STAR TRADING LLC"/>
+<node id="GOOD LAND COMPANY"/>
+<node id="HAMIEH, Khaldoun"/>
+<node id="HAMSHO, Ahmad Sabir Mohammed"/>
+<node id="HAMSHO, Ali Muhammad"/>
+<node id="HAMSHO, Amr Mohamed"/>
+<node id="HAMUD, Faruq"/>
+<node id="HAMZA DIVISION"/>
+<node id="HANIFA MONEY EXCHANGE OFFICE"/>
+<node id="HARAKAT AL-NUJABA"/>
+<node id="HARAKAT ANSAR ALLAH AL-AWFIYA"/>
+<node id="HARAKAT SHAM AL-ISLAM"/>
+<node id="HASSAN, Basil"/>
+<node id="HAUCHARD, Maxime"/>
+<node id="HESCO ENGINEERING &amp; CONSTRUCTION CO"/>
+<node id="HIMICH, Abdelilah"/>
+<node id="HURRAS AL-DIN"/>
+<node id="I JET GLOBAL DMCC"/>
+<node id="IBRAHIM, Nasreen Hussein"/>
+<node id="IBRAHIM, Rana Hussein"/>
+<node id="IMAMOVIC, Nusret"/>
+<node id="IRGC GROUND FORCES"/>
+<node id="IRGC NAVY"/>
+<node id="ISLAMIC REVOLUTIONARY GUARD CORPS"/>
+<node id="ISLAMIC REVOLUTIONARY GUARD CORPS AIR FORCE"/>
+<node id="ISMAIL, Samer"/>
+<node id="IZMAYLOV, Shamil"/>
+<node id="JAISH AL-MUHAJIREEN WAL-ANSAR"/>
+<node id="JANG, Bom Su"/>
+<node id="JASHARI, Abdul"/>
+<node id="JASMINE CONTRACTING COMPANY"/>
+<node id="JAYSH AL-SHA'BI"/>
+<node id="JEDI, Muhammad Wanndy Bin Mohamed"/>
+<node id="JEDID, Milad"/>
+<node id="JO, Yong Chol"/>
+<node id="JON, Myong Guk"/>
+<node id="JONES, Sally-Anne Frances"/>
+<node id="JUBAYR AL-RAWI, Fawaz Muhammad"/>
+<node id="JUND AL-AQSA"/>
+<node id="KATA'IB AL-IMAM ALI"/>
+<node id="KATA'IB SAYYID AL-SHUHADA"/>
+<node id="KATIBAT AL TAWHID WAL JIHAD"/>
+<node id="KATIBAT AL-IMAM AL-BUKHARI"/>
+<node id="KHADOUR, Tawfiq Muhammad"/>
+<node id="KHALID BIN AL-WALID ARMY"/>
+<node id="KHALIL, Iyad Nazmi Salih"/>
+<node id="KHALIL, Qahtan"/>
+<node id="KHALIMOV, Gulmurod"/>
+<node id="KHIDR, Isa"/>
+<node id="KHITI HOLDING GROUP"/>
+<node id="KIRAM, Mohammad Reza Lahaman"/>
+<node id="KONIG, Emilie"/>
+<node id="KOREA COMPUTER CENTER"/>
+<node id="KOREA MINING DEVELOPMENT TRADING CORPORATION"/>
+<node id="KOTEY, Alexanda Amon"/>
+<node id="LIA COMPANY"/>
+<node id="MAHMOOD, Aqsa"/>
+<node id="MAHROUS GROUP"/>
+<node id="MASOUTI, Mohammed Hammam Mohammed Adnan"/>
+<node id="MAYA EXCHANGE COMPANY"/>
+<node id="METALLIC MANUFACTURING FACTORY"/>
+<node id="MISHAAL, Khalid"/>
+<node id="MUSAVI, Razi"/>
+<node id="MUTHANA, Aseel"/>
+<node id="MUTHANA, Nasser"/>
+<node id="NAGHAM AL HAYAT LTD."/>
+<node id="NAZZAL, Mohammad"/>
+<node id="ORGANIZATION FOR TECHNOLOGICAL INDUSTRIES"/>
+<node id="ORIENT CLUB"/>
+<node id="POLYMEDICS LLC"/>
+<node id="POURSAFI, Shahram"/>
+<node id="PRAKASH, Neil Christopher"/>
+<node id="QASIR, Muhammad"/>
+<node id="QUWAYDIR, Muhammed Bin-Muhammed Faris"/>
+<node id="SAATI BIN MOHAMAD NAWZAD, Mohamad Ammar"/>
+<node id="SABURINEZHAD, Hasan"/>
+<node id="SAKARYA, Yunus Emre"/>
+<node id="SAKR, Tarek"/>
+<node id="SAYDNAYA MILITARY PRISON"/>
+<node id="SES INTERNATIONAL CORP"/>
+<node id="SHABIHA"/>
+<node id="SHALISH, Asif"/>
+<node id="SHALISH, Zuhayr"/>
+<node id="SHARROUF, Khaled"/>
+<node id="SHUKR, Fu'ad"/>
+<node id="SIGMA TECH COMPANY"/>
+<node id="SOURAN COMPANY"/>
+<node id="STATE FLIGHT TESTING CENTER NAMED AFTER V.P. CHKALOV"/>
+<node id="SULEIMAN SHAH BRIGADE"/>
+<node id="SURAQIYA FOR MEDIA AND BROADCASTING"/>
+<node id="SUSANTI, Dwi Dahlia"/>
+<node id="SYRIAN COMPANY FOR METALS AND INVESTMENTS LLC"/>
+<node id="SYRIAN HOTEL MANAGEMENT LLC"/>
+<node id="TABATABA'I, Haytham 'Ali"/>
+<node id="TALAQI GROUP"/>
+<node id="TAMAYOZ LLC"/>
+<node id="TAMTOMO, Muhammad Bahrun Naim Anggih"/>
+<node id="TAWAFUK LTD"/>
+<node id="TAWASUL COMPANY"/>
+<node id="TAYLOR, Mark John"/>
+<node id="TAYSIR, Hajji"/>
+<node id="UDIN, Mohamad Rafi"/>
+<node id="USMAN, Bachrumsyah Mennor"/>
+<node id="WINGS PRIVATE JSC"/>
+<node id="WORLD HUMAN CARE"/>
+<node id="YONA STAR INTERNATIONAL"/>
+<node id="ZAYNABIYOUN BRIGADE"/>
+<node id="ZAYNIYAH, Jamal Husayn"/>
+<node id="Wasim Badia AL-ASSAD"/>
+<node id="Samer Kamal AL-ASSAD"/>
+<node id="Nouh ZAITER"/>
+<node id="Taher AL-KAYALI"/>
+<node id="Imad Abu ZUREIQ"/>
+<node id="Fadi SAQR"/>
+<node id="Neptunus LLC"/>
+<node id="Areen foundation"/>
+<node id="Castle for Security and Protection LLC"/>
+<node id="Yasar Hussein IBRAHIM"/>
+<node id="Al-Sayyad Company for Guarding and Protection Services Ltd"/>
+<node id="Brigadier General Mohammed BILAL"/>
+<node id="Rafiq Shahadeh"/>
+<node id="Sunduq Al Mashrek Al Istithmari"/>
+<node id="Bena Properties"/>
+<node id="Eyad MAKHLOUF"/>
+<node id="Atej NAJEEB"/>
+<node id="Mahir AL-ASSAD"/>
+<node id="Buthaina Shaaban"/>
+<node id="Joseph SUWAID"/>
+<node id="Asma Fawaz AL AKHRAS"/>
+<node id="Ahmed Deeb"/>
+<node id="Handasieh – Organization for Engineering Industries"/>
+<node id="Mechanical Construction Factory (MCF)"/>
+<node id="Kifah MULHIM"/>
+<node id="Ghassan BELAL"/>
+<node id="Aws “Ali” ASLAN"/>
+<node id="NSCL"/>
+<node id="HIAST"/>
+<node id="Army Supply Bureau"/>
+<node id="Suhayl al-Hassan"/>
+<node id="Malik Ali"/>
+<node id="Ghassan Jaoudat Ismael"/>
+<node id="Hussam Luka"/>
+<node id="Muhammad Yousef HASOURI"/>
+<node id="Yasin Ahmad DAHI"/>
+<node id="Badi’ MU’ALLA"/>
+<node id="Ahmed Balol"/>
+<node id="Adib SALAMEH"/>
+<node id="Muhamad Mahla"/>
+<node id="Hmisho Economic Group"/>
+<node id="SCIT"/>
+<node id="George Al Hasawani"/>
+<node id="Bayan BITAR"/>
+<node id="Khaled Qaddur"/>
+<node id="Mohammed HAMCHO"/>
+<node id="Bashar AL-ASSAD"/>
+<node id="Hamsho International Group"/>
+<node id="Qatirji Group"/>
+<node id="Saqr RUSTOM"/>
+<node id="Damascus Cham Holding Company"/>
+<node id="Khodr Ali TAHER"/>
+<node id="Mohammad Khaled AL-RAHMOUN"/>
+<node id="JAMALEDDINE, Nazir Ahmad Mohammed"/>
+<node id="Hossam Ahmed al-Katerji"/>
+<node id="Megatrade"/>
+<node id="Manal AL JADAAN"/>
+<node id="Naser AL-ALI"/>
+<node id="Wafeeq NASSER"/>
+<node id="BALWI, Muhammad Ma'ruf"/>
+<node id="Industrial Solutions"/>
+<node id="Business Lab"/>
+<node id="SSRC"/>
+<node id="Talal MAKHLOUF"/>
+<node id="Ramak Constructions Co."/>
+<node id="Cham Holding"/>
+<node id="Cham Investment Group"/>
+<node id="Qods Force"/>
+<node id="Syronics – Syrian Arab Co. for Electronic Industries"/>
+<node id="Mohammad SEIFEDDINE"/>
+<node id="Aman Damascus Joint Stock Company"/>
+<node id="Saji Jamil Darwish"/>
+<node id="Expert Partners"/>
+<node id="Freebird Travel Agency"/>
+<node id="Cham Wings Airlines"/>
+<node id="Mahmoud al-Dj"/>
+<node id="Stroytransgaz"/>
+<node id="Raji FALHOUT"/>
+<node id="Abdellatif HAMID"/>
+<node id="Amer Tayseer KHITI"/>
+<edge source="EU" target="Fahid Jasim AL-FURAYJ"/>
+<edge source="EU" target="Ali Abdallah AYYUB"/>
+<edge source="EU" target="Adnan Hassan MAHMOUD"/>
+<edge source="EU" target="Tayseer Qala AWWAD"/>
+<edge source="EU" target="Issam ANBOUBA"/>
+<edge source="EU" target="Tarif AL AKHRAS"/>
+<edge source="EU" target="Fares Chihabi"/>
+<edge source="EU" target="Ghassan Khaleel"/>
+<edge source="EU" target="Adnuf"/>
+<edge source="EU" target="Muhammed ZAMRENI"/>
+<edge source="EU" target="Nawfal AL-HUSSAIN"/>
+<edge source="EU" target="Hayel AL-ASSAD"/>
+<edge source="EU" target="Tawfiq Yunes"/>
+<edge source="EU" target="Mohammad al-MUFLIH"/>
+<edge source="EU" target="Raeef al-Kouatly"/>
+<edge source="EU" target="Hojjatoleslam Hossein Ta'eb"/>
+<edge source="EU" target="Iehab MAKHLOUF"/>
+<edge source="EU" target="Bassam Al Hasan"/>
+<edge source="EU" target="Faruq Al Shara"/>
+<edge source="EU" target="Munzir Jamil AL-ASSAD"/>
+<edge source="EU" target="Jamil AL-HASSAN"/>
+<edge source="EU" target="Abd al-Fatah QUDSIYAH"/>
+<edge source="EU" target="Rami MAKHLOUF"/>
+<edge source="EU" target="Hafiz MAKHLOUF"/>
+<edge source="EU" target="Abu Ayham"/>
+<edge source="EU" target="Ibrahim MA'LA"/>
+<edge source="EU" target="Khudr KHUDR"/>
+<edge source="EU" target="Qusay Ibrahim MIHOUB"/>
+<edge source="EU" target="Jawdat al-Ahmad"/>
+<edge source="EU" target="Abdul-Salam Fajr MAHMOUD"/>
+<edge source="EU" target="Mohammed KHALLOUF"/>
+<edge source="EU" target="Salah HAMAD"/>
+<edge source="EU" target="Shafik MASA"/>
+<edge source="EU" target="Syrian National Security Bureau"/>
+<edge source="EU" target="Ministry of Interior [Syria]"/>
+<edge source="EU" target="Ministry of Defence [Syria]"/>
+<edge source="EU" target="André Mayard"/>
+<edge source="EU" target="Hussain Mahmoud FARZAT"/>
+<edge source="EU" target="Omar Ibrahim GHALAWANJI"/>
+<edge source="EU" target="Bushra Shawkat"/>
+<edge source="EU" target="Imad Mohammed Deeb KHAMIS"/>
+<edge source="EU" target="Saleh AL-RASHED"/>
+<edge source="EU" target="Adnan SLAKHO"/>
+<edge source="EU" target="Sufian ALLAW"/>
+<edge source="EU" target="Imad Abdul Ghani Al Sabuni"/>
+<edge source="EU" target="Mansur Fadl Allah Azzam"/>
+<edge source="EU" target="Wael Nader AL-HALKI"/>
+<edge source="EU" target="Makhmoud AL-KHATTIB"/>
+<edge source="EU" target="Mohamed Khudour"/>
+<edge source="EU" target="Ali DAWWA"/>
+<edge source="EU" target="Jamal YOUNES"/>
+<edge source="EU" target="Ghassan Afeef"/>
+<edge source="EU" target="Bader AQEL"/>
+<edge source="EU" target="Fo’ad Hammoudah"/>
+<edge source="EU" target="Ramadan Mahmoud RAMADAN"/>
+<edge source="EU" target="Jawdat Ibrahim SAFI"/>
+<edge source="EU" target="Mohamed Ibrahim Al-Sha'ar"/>
+<edge source="EU" target="Nazeeh HASSOUN"/>
+<edge source="EU" target="Ali BARAKAT"/>
+<edge source="EU" target="Khalil Zighraybah"/>
+<edge source="EU" target="Mohammed AL-JLEILATI"/>
+<edge source="EU" target="Mujahed ISMAEL"/>
+<edge source="EU" target="Zouhair HAMAD"/>
+<edge source="EU" target="George CHAOUI"/>
+<edge source="EU" target="Nizar Wehbe Yazigi"/>
+<edge source="EU" target="Khalaf Sleiman al-Abdullah"/>
+<edge source="EU" target="Mohammad Walid GHAZAL"/>
+<edge source="EU" target="Kamal al-Sheikha"/>
+<edge source="EU" target="Hassan al-Nouri"/>
+<edge source="EU" target="Mohammad Ghazi al-Jalali"/>
+<edge source="EU" target="Mohammad Amer Mardini"/>
+<edge source="EU" target="Hammam al-Jazairi"/>
+<edge source="EU" target="Samir HASSAN"/>
+<edge source="EU" target="Coefficient Defense Foundation"/>
+<edge source="EU" target="Amrou Al-Armanazy"/>
+<edge source="EU" target="Hashim Akkad"/>
+<edge source="EU" target="Hasib"/>
+<edge source="EU" target="Hussein Arnus"/>
+<edge source="EU" target="Bishr Riyad YAZIGI"/>
+<edge source="EU" target="Khudr Orphaly"/>
+<edge source="EU" target="Shmat"/>
+<edge source="EU" target="Kamal Eddin TU'MA"/>
+<edge source="EU" target="Suleiman AL ABBAS"/>
+<edge source="EU" target="Abdullah Khaleel HUSSAIN"/>
+<edge source="EU" target="Najm-addin KHREIT"/>
+<edge source="EU" target="Ali HAIDAR"/>
+<edge source="EU" target="Abdul-Salam AL NAYEF"/>
+<edge source="EU" target="Jassem Mohammed ZAKARIA"/>
+<edge source="EU" target="Sa’iid Maazi Hneidi"/>
+<edge source="EU" target="Yasser al Sibaei"/>
+<edge source="EU" target="Safwan AL ASSAF"/>
+<edge source="EU" target="Mahmoud Ibraheem Sa'eed"/>
+<edge source="EU" target="Hazwan Al Wazz"/>
+<edge source="EU" target="Subhi Ahmad al-Abdullah"/>
+<edge source="EU" target="Bassam HANNA"/>
+<edge source="EU" target="Hala Mohammed AL NASSER"/>
+<edge source="EU" target="Mohammad Abdul-Sattar Al Sayyed"/>
+<edge source="EU" target="Drex Technologies S.A."/>
+<edge source="EU" target="Samir Joum’a"/>
+<edge source="EU" target="Issam HALLAQ"/>
+<edge source="EU" target="Mohammad Ali NASR"/>
+<edge source="EU" target="Amer Ashi"/>
+<edge source="EU" target="Ahmed AL-JAROUCHEH"/>
+<edge source="EU" target="Bassam AL-MISRI"/>
+<edge source="EU" target="Taha TAHA"/>
+<edge source="EU" target="Ali Wannous"/>
+<edge source="EU" target="Samir Daaboul"/>
+<edge source="EU" target="Salam Mohammad AL-SAFFAF"/>
+<edge source="EU" target="Mohammad Samer Abdelrahman AL-KHALIL"/>
+<edge source="EU" target="Hisham Mohammad Mamdouh AL‐SHA'AR"/>
+<edge source="EU" target="Muhammed IBRAHIM"/>
+<edge source="EU" target="Ali GHANEM"/>
+<edge source="EU" target="Mohammed AL-AHMED"/>
+<edge source="EU" target="Duraid DURGHAM"/>
+<edge source="EU" target="Rafe'a Abu SA'AD"/>
+<edge source="EU" target="Salwa ABDULLAH"/>
+<edge source="EU" target="Abdullah ABDULLAH"/>
+<edge source="EU" target="Ma’moun HAMDAN"/>
+<edge source="EU" target="Mohammed Zahir KHARBOUTLI"/>
+<edge source="EU" target="Ali Hammoud"/>
+<edge source="EU" target="Mohammed Ramez TOURJMAN"/>
+<edge source="EU" target="Ali AL-ZAFIR"/>
+<edge source="EU" target="Hussein MAKHLOUF"/>
+<edge source="EU" target="Atef NADDAF"/>
+<edge source="EU" target="Hilal HILAL"/>
+<edge source="EU" target="Bishr AL-SABBAN"/>
+<edge source="EU" target="Ammar AL-SHARIF"/>
+<edge source="EU" target="Tahir Hamid KHALIL"/>
+<edge source="EU" target="Jawdat Salbi MAWAS"/>
+<edge source="EU" target="Adnan Aboud HILWEH"/>
+<edge source="EU" target="Technical Industries Corporation (TIC)"/>
+<edge source="EU" target="Imad Hmisho"/>
+<edge source="EU" target="Ghassan ABBAS"/>
+<edge source="EU" target="Aiman JABER"/>
+<edge source="EU" target="Abdelhamid Khamis Ahmad Adballa"/>
+<edge source="EU" target="Ghassan Ahmed GHANNAM"/>
+<edge source="EU" target="Ghazqan Kheir Bek"/>
+<edge source="EU" target="Mohammad Muti'a Moayyad"/>
+<edge source="EU" target="Issam KHALIL"/>
+<edge source="EU" target="Hassan Safiye"/>
+<edge source="EU" target="Air Force Intelligence Agency [Syria]"/>
+<edge source="EU" target="Military Intelligence Directorate [Syria]"/>
+<edge source="EU" target="General Intelligence Directorate [Syria]"/>
+<edge source="EU" target="Political Security Directorate [Syria]"/>
+<edge source="EU" target="Mohammed JABER"/>
+<edge source="EU" target="Husam SUKKAR"/>
+<edge source="EU" target="Ali AL-SALEEM"/>
+<edge source="EU" target="Mohammad Ali JAAFARI"/>
+<edge source="EU" target="Riyad SHALEESH"/>
+<edge source="EU" target="MILIHOUSE"/>
+<edge source="EU" target="Amjad AL-ABBAS"/>
+<edge source="EU" target="Mohamed Dib Zeitun"/>
+<edge source="EU" target="Amer Zuhair Fawz"/>
+<edge source="EU" target="Waseem AL-KATTAN"/>
+<edge source="EU" target="Adel Anwar AL-OLABI"/>
+<edge source="EU" target="Yasser Aziz ABBAS"/>
+<edge source="EU" target="Iyad Mohammad AL-KHATIB"/>
+<edge source="EU" target="Suhail Mohammad ABDULLATIF"/>
+<edge source="EU" target="Bassam Bashir IBRAHIM"/>
+<edge source="EU" target="Imad Muwaffaq AL-AZAB"/>
+<edge source="EU" target="Mohammad Rami Radwan MARTINI"/>
+<edge source="EU" target="Khaled Bassam al-Zubaidi"/>
+<edge source="EU" target="Mazin AL-TARAZI"/>
+<edge source="EU" target="Samer Foz bin Zuhair"/>
+<edge source="EU" target="Anas TALAS"/>
+<edge source="EU" target="Zuhair FADHLUN"/>
+<edge source="EU" target="Maher Suleiman"/>
+<edge source="EU" target="Yusuf Ajib"/>
+<edge source="EU" target="Imad Abdullah SARA"/>
+<edge source="EU" target="Hala SIRHAN"/>
+<edge source="EU" target="Fayez ASI"/>
+<edge source="EU" target="Fawwaz EL-ATOU"/>
+<edge source="EU" target="Raymond RIZQ"/>
+<edge source="EU" target="Khaled SAWAN"/>
+<edge source="EU" target="Mohammad Darar KHALUDI"/>
+<edge source="EU" target="Mohammad Ziad GHRIWATI"/>
+<edge source="EU" target="Mohammad Safwan Qattan"/>
+<edge source="EU" target="Mayzar 'Abdu SAWAN"/>
+<edge source="EU" target="Jayyiz Rayyan AL-MUSA"/>
+<edge source="EU" target="Malik HASAN"/>
+<edge source="EU" target="Razan OTHMAN"/>
+<edge source="EU" target="Jamal Shaaban SHAHEEN"/>
+<edge source="EU" target="Nazeera Farah SARKIS"/>
+<edge source="EU" target="Najm Hamad AL-AHMED"/>
+<edge source="EU" target="Adnan Abdo AL-SEKHNI"/>
+<edge source="EU" target="Mohammad Yahiya MALA"/>
+<edge source="EU" target="Kadri JAMEEL"/>
+<edge source="EU" target="Ezzedine ISMAIL"/>
+<edge source="EU" target="Ahmed KAFAN"/>
+<edge source="EU" target="Basel BILAL"/>
+<edge source="EU" target="Firas AL-HAMID"/>
+<edge source="EU" target="Suhail AL-Abdallah"/>
+<edge source="EU" target="Riad AL-AHMAD"/>
+<edge source="EU" target="Burhan QADDUR"/>
+<edge source="EU" target="Hassan AL-SARI"/>
+<edge source="EU" target="Yousef Suleiman AL-AHMED"/>
+<edge source="EU" target="Ghiath JIRAATLI"/>
+<edge source="EU" target="Mohamed Hekmat IBRAHIM"/>
+<edge source="EU" target="Yousef ISMAEL"/>
+<edge source="EU" target="Jihad Mohammed SULTAN"/>
+<edge source="EU" target="Mohammed Ali DURGHAM"/>
+<edge source="EU" target="Ghiath FAYYAD"/>
+<edge source="EU" target="Khald AL-TAWIL"/>
+<edge source="EU" target="Maan JDEED"/>
+<edge source="EU" target="Ibrahim AL-HASAN"/>
+<edge source="EU" target="Fu’ad TAWIL"/>
+<edge source="EU" target="Talal Mustafa TLASS"/>
+<edge source="EU" target="Wajeeh MAHMUD"/>
+<edge source="EU" target="Nazih"/>
+<edge source="EU" target="Amar ISMAIL"/>
+<edge source="EU" target="Abdallah BERRI"/>
+<edge source="EU" target="Louay AL-ALI"/>
+<edge source="EU" target="Jumah AL-AHMED"/>
+<edge source="EU" target="SOROH Al Cham Company"/>
+<edge source="EU" target="El-Tel. Middle East Company"/>
+<edge source="EU" target="Dounia TV"/>
+<edge source="EU" target="Mada Transport"/>
+<edge source="EU" target="Ahmad Khalil Khalil"/>
+<edge source="EU" target="Saleh AL-ABDULLAH"/>
+<edge source="EU" target="Sara Mohammed MAKHLOUF"/>
+<edge source="EU" target="Kinda Mohammed MAKHLOUF"/>
+<edge source="EU" target="Ghada Adib MHANNA"/>
+<edge source="EU" target="Hala Tarif ALMAGHOUT"/>
+<edge source="EU" target="ООО Евро Полис"/>
+<edge source="EU" target="OOO Меркурий"/>
+<edge source="EU" target="ООО Велада"/>
+<edge source="EU" target="Andrey Mikhailovich BOGATOV"/>
+<edge source="EU" target="Andrey Nikolaevich TROSHEV"/>
+<edge source="EU" target="Diala BARAKAT"/>
+<edge source="EU" target="Boutros AL-HALLAQ"/>
+<edge source="EU" target="Amr SALEM"/>
+<edge source="EU" target="Faisal MEKDAD"/>
+<edge source="EU" target="Mohammad Samir HADDAD"/>
+<edge source="EU" target="Malloul HUSSEIN"/>
+<edge source="EU" target="Mohamad Fayez BARCHA"/>
+<edge source="EU" target="Ghassan ZAMEL"/>
+<edge source="EU" target="Mohammad Hassan QATANA"/>
+<edge source="EU" target="Ziyad SABBAGH"/>
+<edge source="EU" target="Hassan GHABACHE"/>
+<edge source="EU" target="Bassam TOU’MA"/>
+<edge source="EU" target="Zuhair KHAZIM"/>
+<edge source="EU" target="Kinan YAGHI"/>
+<edge source="EU" target="Tammam RA’AD"/>
+<edge source="EU" target="Ahmad SAYYED"/>
+<edge source="EU" target="Darem TABA’A"/>
+<edge source="EU" target="Loubana MOUCHAWEH"/>
+<edge source="EU" target="Talal AL-BARAZI"/>
+<edge source="EU" target="Al Jazerra"/>
+<edge source="EU" target="Rawafed Damascus Private Joint Stock Company"/>
+<edge source="EU" target="Mirza"/>
+<edge source="EU" target="Bunyan Damascus Private Joint Stock Company"/>
+<edge source="EU" target="Mohamed Mazen Ali YOUSEF"/>
+<edge source="EU" target="Rima AL-KADIRI"/>
+<edge source="EU" target="Wafiqa HOSNI"/>
+<edge source="EU" target="Abdullah AL-QIRBI"/>
+<edge source="EU" target="Nabil AL-HASSAN"/>
+<edge source="EU" target="Khayr al-Din AL-SAYYED"/>
+<edge source="EU" target="Ghassan Omar KHALAF"/>
+<edge source="EU" target="Ahmad Sheik ABDUL-QADER"/>
+<edge source="EU" target="Samir Izzat Qadi AMIN"/>
+<edge source="EU" target="Isma'Il Isma'il"/>
+<edge source="EU" target="Hassan HIJAZI"/>
+<edge source="EU" target="Ahmed Mohammad BUSTAJI"/>
+<edge source="EU" target="Firas Hassan QADDOUR"/>
+<edge source="EU" target="Louai Emad El-Din al-MUNAJJID"/>
+<edge source="EU" target="Na’im Jasem SULEIMAN"/>
+<edge source="EU" target="Iloma Investment Private JSC"/>
+<edge source="EU" target="Al-Dj Group"/>
+<edge source="EU" target="Firas al-Akhras"/>
+<edge source="EU" target="Mohannad al-Dabbagh"/>
+<edge source="EU" target="Fahad Darwish"/>
+<edge source="EU" target="Bilal al-Naal"/>
+<edge source="EU" target="Fereydoun Mohammadi SAGHAEI"/>
+<edge source="EU" target="Aman for Protection and Security LLC"/>
+<edge source="EU" target="Al-Jabal Security and Protection LLC"/>
+<edge source="EU" target="Gecopham, the General Company for Phosphate and Mines"/>
+<edge source="EU" target="Fourth Armoured Division of the Syrian Army"/>
+<edge source="EU" target="Ali Mhanna SULEIMAN"/>
+<edge source="EU" target="Osama RAMADAN"/>
+<edge source="EU" target="Amjad YOUSSEF"/>
+<edge source="EU" target="Ahmad Ali TAHER"/>
+<edge source="EU" target="Osama AL-MALIKI"/>
+<edge source="EU" target="Jamal AL-KHATIB"/>
+<edge source="EU" target="Jamal al-Ismail"/>
+<edge source="EU" target="Ali Najib IBRAHIM"/>
+<edge source="EU" target="Samer AL-DIBIS"/>
+<edge source="EU" target="Muhammad ABDO ASSAAD"/>
+<edge source="EU" target="Jihad BARAKAT"/>
+<edge source="EU" target="Hassan Muhammad DAQQOU"/>
+<edge source="EU" target="Waseem Omar AL-MASALMA"/>
+<edge source="EU" target="Mohammad SHALISH"/>
+<edge source="EU" target="Mudar Rifaat AL-ASSAD"/>
+<edge source="EU" target="Sanad Protection and Security Services"/>
+<edge source="EU" target="Issam SHAMMOUT"/>
+<edge source="EU" target="Nasser Deeb DEEB"/>
+<edge source="EU" target="Wasim Badia AL-ASSAD"/>
+<edge source="EU" target="Samer Kamal AL-ASSAD"/>
+<edge source="EU" target="Nouh ZAITER"/>
+<edge source="EU" target="Taher AL-KAYALI"/>
+<edge source="EU" target="Imad Abu ZUREIQ"/>
+<edge source="EU" target="Fadi SAQR"/>
+<edge source="EU" target="Neptunus LLC"/>
+<edge source="EU" target="Areen foundation"/>
+<edge source="EU" target="Castle for Security and Protection LLC"/>
+<edge source="EU" target="Yasar Hussein IBRAHIM"/>
+<edge source="EU" target="Al-Sayyad Company for Guarding and Protection Services Ltd"/>
+<edge source="EU" target="Brigadier General Mohammed BILAL"/>
+<edge source="EU" target="Rafiq Shahadeh"/>
+<edge source="EU" target="Sunduq Al Mashrek Al Istithmari"/>
+<edge source="EU" target="Bena Properties"/>
+<edge source="EU" target="Eyad MAKHLOUF"/>
+<edge source="EU" target="Atej NAJEEB"/>
+<edge source="EU" target="Mahir AL-ASSAD"/>
+<edge source="EU" target="Buthaina Shaaban"/>
+<edge source="EU" target="Joseph SUWAID"/>
+<edge source="EU" target="Asma Fawaz AL AKHRAS"/>
+<edge source="EU" target="Ahmed Deeb"/>
+<edge source="EU" target="Handasieh – Organization for Engineering Industries"/>
+<edge source="EU" target="Mechanical Construction Factory (MCF)"/>
+<edge source="EU" target="Kifah MULHIM"/>
+<edge source="EU" target="Ghassan BELAL"/>
+<edge source="EU" target="Aws “Ali” ASLAN"/>
+<edge source="EU" target="NSCL"/>
+<edge source="EU" target="HIAST"/>
+<edge source="EU" target="Army Supply Bureau"/>
+<edge source="EU" target="Suhayl al-Hassan"/>
+<edge source="EU" target="Malik Ali"/>
+<edge source="EU" target="Ghassan Jaoudat Ismael"/>
+<edge source="EU" target="Hussam Luka"/>
+<edge source="EU" target="Muhammad Yousef HASOURI"/>
+<edge source="EU" target="Yasin Ahmad DAHI"/>
+<edge source="EU" target="Badi’ MU’ALLA"/>
+<edge source="EU" target="Ahmed Balol"/>
+<edge source="EU" target="Adib SALAMEH"/>
+<edge source="EU" target="Muhamad Mahla"/>
+<edge source="EU" target="Hmisho Economic Group"/>
+<edge source="EU" target="SCIT"/>
+<edge source="EU" target="George Al Hasawani"/>
+<edge source="EU" target="Bayan BITAR"/>
+<edge source="EU" target="Khaled Qaddur"/>
+<edge source="EU" target="Mohammed HAMCHO"/>
+<edge source="EU" target="Bashar AL-ASSAD"/>
+<edge source="EU" target="Hamsho International Group"/>
+<edge source="EU" target="Qatirji Group"/>
+<edge source="EU" target="Saqr RUSTOM"/>
+<edge source="EU" target="Damascus Cham Holding Company"/>
+<edge source="EU" target="Khodr Ali TAHER"/>
+<edge source="EU" target="Mohammad Khaled AL-RAHMOUN"/>
+<edge source="EU" target="JAMALEDDINE, Nazir Ahmad Mohammed"/>
+<edge source="EU" target="Hossam Ahmed al-Katerji"/>
+<edge source="EU" target="Megatrade"/>
+<edge source="EU" target="Manal AL JADAAN"/>
+<edge source="EU" target="Naser AL-ALI"/>
+<edge source="EU" target="Wafeeq NASSER"/>
+<edge source="EU" target="BALWI, Muhammad Ma'ruf"/>
+<edge source="EU" target="Industrial Solutions"/>
+<edge source="EU" target="Business Lab"/>
+<edge source="EU" target="SSRC"/>
+<edge source="EU" target="Talal MAKHLOUF"/>
+<edge source="EU" target="Ramak Constructions Co."/>
+<edge source="EU" target="Cham Holding"/>
+<edge source="EU" target="Cham Investment Group"/>
+<edge source="EU" target="Qods Force"/>
+<edge source="EU" target="Syronics – Syrian Arab Co. for Electronic Industries"/>
+<edge source="EU" target="Mohammad SEIFEDDINE"/>
+<edge source="EU" target="Aman Damascus Joint Stock Company"/>
+<edge source="EU" target="Saji Jamil Darwish"/>
+<edge source="EU" target="Expert Partners"/>
+<edge source="EU" target="Freebird Travel Agency"/>
+<edge source="EU" target="Cham Wings Airlines"/>
+<edge source="EU" target="Mahmoud al-Dj"/>
+<edge source="EU" target="Stroytransgaz"/>
+<edge source="EU" target="Raji FALHOUT"/>
+<edge source="EU" target="Abdellatif HAMID"/>
+<edge source="EU" target="Amer Tayseer KHITI"/>
+<edge source="US" target="ABBAS, Muhammad"/>
+<edge source="US" target="ABD AL-NASIR, Hajji"/>
+<edge source="US" target="ABD AL-SALAM, Ashraf Muhammad Yusuf 'Uthman"/>
+<edge source="US" target="ABDALLAH, Ramadan"/>
+<edge source="US" target="ABDURAKHMANOV, Maghomed Maghomedzakirovich"/>
+<edge source="US" target="ABU BAKR, Sayf Boulad"/>
+<edge source="US" target="AHMAD, Ayman"/>
+<edge source="US" target="AHMAD, Muhammad Ali Sayid"/>
+<edge source="US" target="AHMAD, Muhammad Yunis"/>
+<edge source="US" target="AHRAR AL-SHARQIYA"/>
+<edge source="US" target="AL ALI AND AL HAMZA LLC"/>
+<edge source="US" target="AL MAZIDIH, Akram Turki Hishan"/>
+<edge source="US" target="AL MAZIDIH, Badran Turki Hishan"/>
+<edge source="US" target="AL MAZIDIH, Ghazy Fezza Hishan"/>
+<edge source="US" target="AL-ADHAM EXCHANGE COMPANY"/>
+<edge source="US" target="AL-ADNANI, Abu Mohammed"/>
+<edge source="US" target="AL-AHMAD, Ahmad Muhammad Yunis"/>
+<edge source="US" target="AL-AHMAD, Sa'ad Muhammad Yunis"/>
+<edge source="US" target="AL-AJOURI, Akram"/>
+<edge source="US" target="AL-'ALLAK, Ashraf Ahmad Fari'"/>
+<edge source="US" target="AL-AMER DEVELOPMENT AND REAL ESTATE INVESTMENT"/>
+<edge source="US" target="AL-AMER FOR MANUFACTURE OF CONCRETE AND FLAGSTONE"/>
+<edge source="US" target="AL-AMER FOR MANUFACTURE OF PLASTIC"/>
+<edge source="US" target="AL-ARD AL-JADIDAH MONEY EXCHANGE COMPANY"/>
+<edge source="US" target="AL-ASSAD, Hafez"/>
+<edge source="US" target="AL-ASSAD, Karam"/>
+<edge source="US" target="AL-ASSAD, Zuhair Tawfik"/>
+<edge source="US" target="AL-BUSTAN CHARITY"/>
+<edge source="US" target="ALCHWIKI, Mhd Amer"/>
+<edge source="US" target="ALDABBAS, Rania"/>
+<edge source="US" target="AL-DAMMAMI, Hussein Ahmad 'Abdallah Ahmad Hussein"/>
+<edge source="US" target="AL-DANA, Samer"/>
+<edge source="US" target="AL-DEKER, Asef"/>
+<edge source="US" target="AL-DULAYMI, Hasan Hashim Khalaf"/>
+<edge source="US" target="AL-DURI, Thabet"/>
+<edge source="US" target="AL-FADEL EXCHANGE AND MONEY TRANSFER COMPANY"/>
+<edge source="US" target="AL-HASRI, Bassam Ahmad"/>
+<edge source="US" target="AL-HASSAN, Kamal"/>
+<edge source="US" target="AL-HATUM, Yusuf"/>
+<edge source="US" target="AL-HAYES, Ahmad Ihsan Fayyad"/>
+<edge source="US" target="AL-HAYES, Raed Jassim"/>
+<edge source="US" target="AL-HEBO JEWELRY COMPANY"/>
+<edge source="US" target="AL-HEBO, Muhamad Ali"/>
+<edge source="US" target="AL-HINDI, Muhammad"/>
+<edge source="US" target="AL-HISN"/>
+<edge source="US" target="ALI HAKIM, Boubaker Ben Habib Ben"/>
+<edge source="US" target="ALI, Ahmad"/>
+<edge source="US" target="ALI, Emraan"/>
+<edge source="US" target="AL-JABURI, Mish'an Rakin Thamin"/>
+<edge source="US" target="AL-JASIM, Mohammad Hussein"/>
+<edge source="US" target="AL-JASIM, Walid Hussein"/>
+<edge source="US" target="AL-JAWLANI, Abu Muhammad"/>
+<edge source="US" target="ALKHALD, Ahmad"/>
+<edge source="US" target="AL-KHALIDI EXCHANGE"/>
+<edge source="US" target="AL-LAYTH ALZAHABE TRANSPORTATION AND SHIPPING SERVICES"/>
+<edge source="US" target="AL-MARSUMI, Saddah Jaylut"/>
+<edge source="US" target="AL-MATUTI, Arkan Ahmad 'Abbas"/>
+<edge source="US" target="AL-MAWLA, Amir Muhammad Sa'id Abdal-Rahman"/>
+<edge source="US" target="AL-MESHEDANI, Abdullah Ahmed"/>
+<edge source="US" target="ALOTAIBI, Mubarak Mohammed A"/>
+<edge source="US" target="AL-QASIUN"/>
+<edge source="US" target="AL-QUBAYSI, Munir"/>
+<edge source="US" target="AL-RASHIDI, Nawaf Ahmad Alwan"/>
+<edge source="US" target="AL-RAWI, 'Adnan Muhammad Amin"/>
+<edge source="US" target="AL-RAWI, Fawzi Mutlaq"/>
+<edge source="US" target="AL-RESAFA REFINERY COMPANY PRIVATE JSC"/>
+<edge source="US" target="AL-SHABAN, Hasan"/>
+<edge source="US" target="AL-SHAMMARI, Sa'ad Uwayyid 'Ubayd Mu'jil"/>
+<edge source="US" target="AL-SURI, Faruq"/>
+<edge source="US" target="AL-TA'IR COMPANY"/>
+<edge source="US" target="AL-TIKRITI, Ahmed Watban Ibrahim Hasan"/>
+<edge source="US" target="AL-TIKRITI, Ayman Sabawi Ibrahim Hasan"/>
+<edge source="US" target="AL-TIKRITI, Bashar Sabawi Ibrahim Hasan"/>
+<edge source="US" target="AL-TIKRITI, Ibrahim Sabawi Ibrahim Hasan"/>
+<edge source="US" target="AL-TIKRITI, Omar Sabawi Ibrahim Hasan"/>
+<edge source="US" target="AL-TIKRITI, Sa'd Sabawi Ibrahim Hasan"/>
+<edge source="US" target="AL-TIKRITI, Yasir Sabawi Ibrahim Hasan"/>
+<edge source="US" target="AL-URAYDI, Sami Mahmud Mohammed"/>
+<edge source="US" target="AL-ZAWRA TELEVISION STATION"/>
+<edge source="US" target="AMAN HOLDING COMPANY"/>
+<edge source="US" target="ANSARI, Mohammad Reza"/>
+<edge source="US" target="AQIL, Ibrahim"/>
+<edge source="US" target="ARFADA PETROLEUM PRIVATE JOINT STOCK COMPANY"/>
+<edge source="US" target="ARIF, Said"/>
+<edge source="US" target="ARMAR, Mohammad Shafi"/>
+<edge source="US" target="ASPERMAN, Joe"/>
+<edge source="US" target="ATAR, Oussama Ahmad"/>
+<edge source="US" target="BALWI, Fadel Ma'ruf"/>
+<edge source="US" target="BALWI, Mut'i Ma'ruf"/>
+<edge source="US" target="BARAKAT TRANSNATIONAL CRIMINAL ORGANIZATION"/>
+<edge source="US" target="BARAKAT, Nasif"/>
+<edge source="US" target="BARKHANOEV, Malik Ruslanovish"/>
+<edge source="US" target="BASIJ RESISTANCE FORCE"/>
+<edge source="US" target="BENGHALEM, Salim"/>
+<edge source="US" target="BILAL, Muhammad Nafi"/>
+<edge source="US" target="COASTAL REFINERY COMPANY PRIVATE JSC"/>
+<edge source="US" target="CRAWFORD, Shane Dominic"/>
+<edge source="US" target="CUSPERT, Denis Mamadou"/>
+<edge source="US" target="DALAH, Ghaith"/>
+<edge source="US" target="DARWISH, Samir Sakhir"/>
+<edge source="US" target="DEIRY, Mohamad Majd"/>
+<edge source="US" target="DHAR, Siddhartha"/>
+<edge source="US" target="DIABY, Omar"/>
+<edge source="US" target="EL ABBOUBI, Anas"/>
+<edge source="US" target="ELECTRONICS INSTITUTE"/>
+<edge source="US" target="ELECTRONICS KATRANGI TRADING"/>
+<edge source="US" target="ELLA MEDIA SERVICES LLC"/>
+<edge source="US" target="ELLA TOURISM COMPANY"/>
+<edge source="US" target="ELSHEIKH, El Shafee"/>
+<edge source="US" target="EMMA LLC"/>
+<edge source="US" target="EMMA TEL LLC"/>
+<edge source="US" target="EMMA TEL PLUS LLC"/>
+<edge source="US" target="FATEMIYOUN DIVISION"/>
+<edge source="US" target="FAYZIMATOV, Farrukh Furkatovitch"/>
+<edge source="US" target="FOZ FOR TRADING"/>
+<edge source="US" target="FOZ, Husen"/>
+<edge source="US" target="GAINI, Abdelatif"/>
+<edge source="US" target="GHANIM, Ma'n"/>
+<edge source="US" target="GLOBAL RELIEF FOUNDATION, INC."/>
+<edge source="US" target="GOLDEN STAR CO"/>
+<edge source="US" target="GOLDEN STAR TRADING LLC"/>
+<edge source="US" target="GOOD LAND COMPANY"/>
+<edge source="US" target="HAMIEH, Khaldoun"/>
+<edge source="US" target="HAMSHO, Ahmad Sabir Mohammed"/>
+<edge source="US" target="HAMSHO, Ali Muhammad"/>
+<edge source="US" target="HAMSHO, Amr Mohamed"/>
+<edge source="US" target="HAMUD, Faruq"/>
+<edge source="US" target="HAMZA DIVISION"/>
+<edge source="US" target="HANIFA MONEY EXCHANGE OFFICE"/>
+<edge source="US" target="HARAKAT AL-NUJABA"/>
+<edge source="US" target="HARAKAT ANSAR ALLAH AL-AWFIYA"/>
+<edge source="US" target="HARAKAT SHAM AL-ISLAM"/>
+<edge source="US" target="HASSAN, Basil"/>
+<edge source="US" target="HAUCHARD, Maxime"/>
+<edge source="US" target="HESCO ENGINEERING &amp; CONSTRUCTION CO"/>
+<edge source="US" target="HIMICH, Abdelilah"/>
+<edge source="US" target="HURRAS AL-DIN"/>
+<edge source="US" target="I JET GLOBAL DMCC"/>
+<edge source="US" target="IBRAHIM, Nasreen Hussein"/>
+<edge source="US" target="IBRAHIM, Rana Hussein"/>
+<edge source="US" target="IMAMOVIC, Nusret"/>
+<edge source="US" target="IRGC GROUND FORCES"/>
+<edge source="US" target="IRGC NAVY"/>
+<edge source="US" target="ISLAMIC REVOLUTIONARY GUARD CORPS"/>
+<edge source="US" target="ISLAMIC REVOLUTIONARY GUARD CORPS AIR FORCE"/>
+<edge source="US" target="ISMAIL, Samer"/>
+<edge source="US" target="IZMAYLOV, Shamil"/>
+<edge source="US" target="JAISH AL-MUHAJIREEN WAL-ANSAR"/>
+<edge source="US" target="JANG, Bom Su"/>
+<edge source="US" target="JASHARI, Abdul"/>
+<edge source="US" target="JASMINE CONTRACTING COMPANY"/>
+<edge source="US" target="JAYSH AL-SHA'BI"/>
+<edge source="US" target="JEDI, Muhammad Wanndy Bin Mohamed"/>
+<edge source="US" target="JEDID, Milad"/>
+<edge source="US" target="JO, Yong Chol"/>
+<edge source="US" target="JON, Myong Guk"/>
+<edge source="US" target="JONES, Sally-Anne Frances"/>
+<edge source="US" target="JUBAYR AL-RAWI, Fawaz Muhammad"/>
+<edge source="US" target="JUND AL-AQSA"/>
+<edge source="US" target="KATA'IB AL-IMAM ALI"/>
+<edge source="US" target="KATA'IB SAYYID AL-SHUHADA"/>
+<edge source="US" target="KATIBAT AL TAWHID WAL JIHAD"/>
+<edge source="US" target="KATIBAT AL-IMAM AL-BUKHARI"/>
+<edge source="US" target="KHADOUR, Tawfiq Muhammad"/>
+<edge source="US" target="KHALID BIN AL-WALID ARMY"/>
+<edge source="US" target="KHALIL, Iyad Nazmi Salih"/>
+<edge source="US" target="KHALIL, Qahtan"/>
+<edge source="US" target="KHALIMOV, Gulmurod"/>
+<edge source="US" target="KHIDR, Isa"/>
+<edge source="US" target="KHITI HOLDING GROUP"/>
+<edge source="US" target="KIRAM, Mohammad Reza Lahaman"/>
+<edge source="US" target="KONIG, Emilie"/>
+<edge source="US" target="KOREA COMPUTER CENTER"/>
+<edge source="US" target="KOREA MINING DEVELOPMENT TRADING CORPORATION"/>
+<edge source="US" target="KOTEY, Alexanda Amon"/>
+<edge source="US" target="LIA COMPANY"/>
+<edge source="US" target="MAHMOOD, Aqsa"/>
+<edge source="US" target="MAHROUS GROUP"/>
+<edge source="US" target="MASOUTI, Mohammed Hammam Mohammed Adnan"/>
+<edge source="US" target="MAYA EXCHANGE COMPANY"/>
+<edge source="US" target="METALLIC MANUFACTURING FACTORY"/>
+<edge source="US" target="MISHAAL, Khalid"/>
+<edge source="US" target="MUSAVI, Razi"/>
+<edge source="US" target="MUTHANA, Aseel"/>
+<edge source="US" target="MUTHANA, Nasser"/>
+<edge source="US" target="NAGHAM AL HAYAT LTD."/>
+<edge source="US" target="NAZZAL, Mohammad"/>
+<edge source="US" target="ORGANIZATION FOR TECHNOLOGICAL INDUSTRIES"/>
+<edge source="US" target="ORIENT CLUB"/>
+<edge source="US" target="POLYMEDICS LLC"/>
+<edge source="US" target="POURSAFI, Shahram"/>
+<edge source="US" target="PRAKASH, Neil Christopher"/>
+<edge source="US" target="QASIR, Muhammad"/>
+<edge source="US" target="QUWAYDIR, Muhammed Bin-Muhammed Faris"/>
+<edge source="US" target="SAATI BIN MOHAMAD NAWZAD, Mohamad Ammar"/>
+<edge source="US" target="SABURINEZHAD, Hasan"/>
+<edge source="US" target="SAKARYA, Yunus Emre"/>
+<edge source="US" target="SAKR, Tarek"/>
+<edge source="US" target="SAYDNAYA MILITARY PRISON"/>
+<edge source="US" target="SES INTERNATIONAL CORP"/>
+<edge source="US" target="SHABIHA"/>
+<edge source="US" target="SHALISH, Asif"/>
+<edge source="US" target="SHALISH, Zuhayr"/>
+<edge source="US" target="SHARROUF, Khaled"/>
+<edge source="US" target="SHUKR, Fu'ad"/>
+<edge source="US" target="SIGMA TECH COMPANY"/>
+<edge source="US" target="SOURAN COMPANY"/>
+<edge source="US" target="STATE FLIGHT TESTING CENTER NAMED AFTER V.P. CHKALOV"/>
+<edge source="US" target="SULEIMAN SHAH BRIGADE"/>
+<edge source="US" target="SURAQIYA FOR MEDIA AND BROADCASTING"/>
+<edge source="US" target="SUSANTI, Dwi Dahlia"/>
+<edge source="US" target="SYRIAN COMPANY FOR METALS AND INVESTMENTS LLC"/>
+<edge source="US" target="SYRIAN HOTEL MANAGEMENT LLC"/>
+<edge source="US" target="TABATABA'I, Haytham 'Ali"/>
+<edge source="US" target="TALAQI GROUP"/>
+<edge source="US" target="TAMAYOZ LLC"/>
+<edge source="US" target="TAMTOMO, Muhammad Bahrun Naim Anggih"/>
+<edge source="US" target="TAWAFUK LTD"/>
+<edge source="US" target="TAWASUL COMPANY"/>
+<edge source="US" target="TAYLOR, Mark John"/>
+<edge source="US" target="TAYSIR, Hajji"/>
+<edge source="US" target="UDIN, Mohamad Rafi"/>
+<edge source="US" target="USMAN, Bachrumsyah Mennor"/>
+<edge source="US" target="WINGS PRIVATE JSC"/>
+<edge source="US" target="WORLD HUMAN CARE"/>
+<edge source="US" target="YONA STAR INTERNATIONAL"/>
+<edge source="US" target="ZAYNABIYOUN BRIGADE"/>
+<edge source="US" target="ZAYNIYAH, Jamal Husayn"/>
+<edge source="US" target="Wasim Badia AL-ASSAD"/>
+<edge source="US" target="Samer Kamal AL-ASSAD"/>
+<edge source="US" target="Nouh ZAITER"/>
+<edge source="US" target="Taher AL-KAYALI"/>
+<edge source="US" target="Imad Abu ZUREIQ"/>
+<edge source="US" target="Fadi SAQR"/>
+<edge source="US" target="Neptunus LLC"/>
+<edge source="US" target="Areen foundation"/>
+<edge source="US" target="Castle for Security and Protection LLC"/>
+<edge source="US" target="Yasar Hussein IBRAHIM"/>
+<edge source="US" target="Al-Sayyad Company for Guarding and Protection Services Ltd"/>
+<edge source="US" target="Brigadier General Mohammed BILAL"/>
+<edge source="US" target="Rafiq Shahadeh"/>
+<edge source="US" target="Sunduq Al Mashrek Al Istithmari"/>
+<edge source="US" target="Bena Properties"/>
+<edge source="US" target="Eyad MAKHLOUF"/>
+<edge source="US" target="Atej NAJEEB"/>
+<edge source="US" target="Mahir AL-ASSAD"/>
+<edge source="US" target="Buthaina Shaaban"/>
+<edge source="US" target="Joseph SUWAID"/>
+<edge source="US" target="Asma Fawaz AL AKHRAS"/>
+<edge source="US" target="Ahmed Deeb"/>
+<edge source="US" target="Handasieh – Organization for Engineering Industries"/>
+<edge source="US" target="Mechanical Construction Factory (MCF)"/>
+<edge source="US" target="Kifah MULHIM"/>
+<edge source="US" target="Ghassan BELAL"/>
+<edge source="US" target="Aws “Ali” ASLAN"/>
+<edge source="US" target="NSCL"/>
+<edge source="US" target="HIAST"/>
+<edge source="US" target="Army Supply Bureau"/>
+<edge source="US" target="Suhayl al-Hassan"/>
+<edge source="US" target="Malik Ali"/>
+<edge source="US" target="Ghassan Jaoudat Ismael"/>
+<edge source="US" target="Hussam Luka"/>
+<edge source="US" target="Muhammad Yousef HASOURI"/>
+<edge source="US" target="Yasin Ahmad DAHI"/>
+<edge source="US" target="Badi’ MU’ALLA"/>
+<edge source="US" target="Ahmed Balol"/>
+<edge source="US" target="Adib SALAMEH"/>
+<edge source="US" target="Muhamad Mahla"/>
+<edge source="US" target="Hmisho Economic Group"/>
+<edge source="US" target="SCIT"/>
+<edge source="US" target="George Al Hasawani"/>
+<edge source="US" target="Bayan BITAR"/>
+<edge source="US" target="Khaled Qaddur"/>
+<edge source="US" target="Mohammed HAMCHO"/>
+<edge source="US" target="Bashar AL-ASSAD"/>
+<edge source="US" target="Hamsho International Group"/>
+<edge source="US" target="Qatirji Group"/>
+<edge source="US" target="Saqr RUSTOM"/>
+<edge source="US" target="Damascus Cham Holding Company"/>
+<edge source="US" target="Khodr Ali TAHER"/>
+<edge source="US" target="Mohammad Khaled AL-RAHMOUN"/>
+<edge source="US" target="JAMALEDDINE, Nazir Ahmad Mohammed"/>
+<edge source="US" target="Hossam Ahmed al-Katerji"/>
+<edge source="US" target="Megatrade"/>
+<edge source="US" target="Manal AL JADAAN"/>
+<edge source="US" target="Naser AL-ALI"/>
+<edge source="US" target="Wafeeq NASSER"/>
+<edge source="US" target="BALWI, Muhammad Ma'ruf"/>
+<edge source="US" target="Industrial Solutions"/>
+<edge source="US" target="Business Lab"/>
+<edge source="US" target="SSRC"/>
+<edge source="US" target="Talal MAKHLOUF"/>
+<edge source="US" target="Ramak Constructions Co."/>
+<edge source="US" target="Cham Holding"/>
+<edge source="US" target="Cham Investment Group"/>
+<edge source="US" target="Qods Force"/>
+<edge source="US" target="Syronics – Syrian Arab Co. for Electronic Industries"/>
+<edge source="US" target="Mohammad SEIFEDDINE"/>
+<edge source="US" target="Aman Damascus Joint Stock Company"/>
+<edge source="US" target="Saji Jamil Darwish"/>
+<edge source="US" target="Expert Partners"/>
+<edge source="US" target="Freebird Travel Agency"/>
+<edge source="US" target="Cham Wings Airlines"/>
+<edge source="US" target="Mahmoud al-Dj"/>
+<edge source="US" target="Stroytransgaz"/>
+<edge source="US" target="Raji FALHOUT"/>
+<edge source="US" target="Abdellatif HAMID"/>
+<edge source="US" target="Amer Tayseer KHITI"/>
+</graph></graphml>
